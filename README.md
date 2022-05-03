@@ -1,7 +1,7 @@
 ## 10 Guidelines for the Human-Centered AI practice at Ventera
 
 
-![alt_text](images/image1.png "framework image")
+![alt_text](HAiV_Toolkit.png "framework image")
 
 
 **Know thy Customers' Goals.** We start by designing a model with concrete goals for fairness and inclusion during the strategy and research phase: We work with you to understand your definition of fairness for production ML and conduct ethics reviews where applicable and engage with our data ethics experts to understand and account for various perspectives.
